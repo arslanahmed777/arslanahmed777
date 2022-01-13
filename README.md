@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[React checkbox Tree](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[vu learning portal](https://covid-19-tracker-e4bda.web.app/)**
 
 - 🌱 I’m currently learning **Nodejs and React**
 
