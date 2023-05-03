@@ -48,6 +48,7 @@
 </p>
 
 ## 📊 My Github Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=arslanahmed777)](https://github.com/ryo-ma/github-profile-trophy)
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/arslanahmed777}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
