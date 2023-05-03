@@ -81,3 +81,4 @@
     <img src="https://komarev.com/ghpvc/?username=arslanahmed777">
 </a>
 <a href="https://github.com/arslanahmed777?tab=followers"><img src="https://img.shields.io/github/followers/arslanahmed777?label=Followers&style=social" alt="GitHub Badge"></a>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
