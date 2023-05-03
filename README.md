@@ -48,7 +48,9 @@
 </p>
 
 ## 📊 My Github Stats
+<h4 align="center">Visitor's count :eyes:</h4>
 
+<p align="center"><img src="https://profile-counter.glitch.me/arslanahmed777}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
   <br/>
     <a href="https://github.com/arslanahmed777/github-readme-stats"><img alt="arslanahmed777's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arslanahmed777&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/arslanahmed777/github-readme-stats"><img alt="arslanahmed777's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanahmed777&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
